@@ -76,6 +76,32 @@
     max-width: none;
   }
 } 
+@media (max-width:991px) {
+  .slideone {
+    margin-top: 25px;
+  }
+}
+
+@media (max-width:767px) {
+  .textmobile {
+    font-size: 20px;
+  }
+  .textmobilelink {
+    font-size: 5px;
+  }
+  .slidetwotext{
+    font-size: 17.90px;
+  }
+}
+
+
+@media (max-width:991px) {
+  
+  .pagee{
+    display: none;
+    visibility:hidden;
+  }
+} 
  .slide-titlee span {
   white-space: pre;
   opacity: 0;
