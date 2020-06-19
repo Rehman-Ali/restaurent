@@ -31,7 +31,7 @@
 
 
 .abouct-scrol {
-  height: 430px;
+   height: 430px; 
   width: 100%;
   /* border: solid 2px orange; */
   overflow: scroll;

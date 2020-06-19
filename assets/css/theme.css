@@ -92,8 +92,16 @@
   .slidetwotext{
     font-size: 17.90px;
   }
+  .mapp{
+    /* display: none; */
+    visibility:hidden;
+  }
 }
 
+.carousel{
+  width:90%;
+  margin:0px auto;
+}
 
 @media (max-width:991px) {
   
